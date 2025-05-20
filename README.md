@@ -1,6 +1,6 @@
 ## Hi I'am  Luis Cavalari, Fullstack developer from Brazil!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiscavalari&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiscavalari&show_icons=true&theme=radical&include_all_commits=1)
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
